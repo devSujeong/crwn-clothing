@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80a986ea-e4d7-472e-a776-4cbf69559c8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/header.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/header.styles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/preview-collection/collection-preview.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/preview-collection/collection-preview.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/preview-collection/preview-collection.style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/preview-collection/preview-collection.style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
       <workItem from="1611205658776" duration="6798000" />
       <workItem from="1611297455280" duration="3435000" />
       <workItem from="1611554732842" duration="2207000" />
-      <workItem from="1611633951093" duration="727000" />
+      <workItem from="1611633951093" duration="1556000" />
     </task>
     <servers />
   </component>
